@@ -301,6 +301,3 @@ go(
 	best_totalprice(p => p.price < 2000),
 );
 ```
-
-$$
-$$
